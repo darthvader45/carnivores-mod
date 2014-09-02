@@ -1,0 +1,16 @@
+item.carnivores:pistol.name=Pistol
+item.carnivores:pistolammo.name=Pistol Ammo
+item.carnivores:rifleammo.name=Rifle Ammo
+item.carnivores:rifle.name=Rifle
+
+entity.Bullet.name=Bullet
+entity.Utahraptor.name=Utahraptor
+
+itemGroup.carnivoresTab=Carnivores
+
+key.caske2000.category=Carnivores
+key.caske2000.points=Points
+
+tile.UnknownEgg.name=Unknown Egg
+tile.UnknownEggOpen.name=Unknown Egg (Open)
+tile.carnivores_unknownBox.name=Unknown Box

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "carnivores",
+  "name": "Carnivores",
+  "description": "Hunt Dinosaurs on the planet UV-32 for points, which are spent for better equipment, guns and more dinos to hunt.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syxes", "Caske2000"],
+  "credits": "Syxes and Caske2000, for making this awesome mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

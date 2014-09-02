@@ -1,0 +1,5 @@
+{
+ "pistolFire": {"category": "neutral","sounds":["guns/pistol/pistolFire"]},
+ "rifle_sound_1": {"category": "neutral","sounds":["guns/rifle/rifle_sound_1"]}
+    
+}
