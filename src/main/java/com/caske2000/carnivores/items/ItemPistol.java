@@ -26,7 +26,7 @@ public class ItemPistol extends CarnivoresItem {
 
 		if (player.capabilities.isCreativeMode || player.inventory.consumeInventoryItem(ModItems.ammo)) {
 
-			world.playSoundAtEntity(player, Reference.MODID + ":" + "pistolFire", 0.5F, 0.4F / (itemRand.nextFloat() * 0.4F + 0.8F));
+			world.playSoundAtEntity(player, Reference.MODID + ":" + "pistol_sound_1", 0.5F, 0.4F / (itemRand.nextFloat() * 0.4F + 0.8F));
 
 			if (!world.isRemote) {
 
